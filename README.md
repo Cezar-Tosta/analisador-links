@@ -17,7 +17,7 @@ A interface é intuitiva, com seções para:
 - Metadados detalhados do link selecionado.
 - Geração de panoramas analíticos com IA.
 - Exportação do conteúdo em PDF.
-<img width="960" height="503" alt="tela inicial" src="https://github.com/user-attachments/assets/a0e0a33c-44af-4106-9f12-3c89f83de963" />
+<img src="imagens/tela_inicial.png" alt="Tela inicial" width="900"/>
 
 # 💡**EXEMPLOS DE USO**
 - Insira um link de um artigo sobre Governança ou Inteligência Artificial.
@@ -27,11 +27,10 @@ A interface é intuitiva, com seções para:
 - Exporte o relatório em PDF para uso profissional ou acadêmico.
 
 ### 📊 Geração do Panorama (por Categoria)
-<img width="590" height="188" alt="panorama" src="https://github.com/user-attachments/assets/0dbd4736-9a19-422d-bfdb-2104499f1d5e" />
-<img width="666" height="392" alt="geracao de pdf" src="https://github.com/user-attachments/assets/cb250c69-7400-4033-90b5-84063c084ce7" />
+<img src="imagens/panorama.png" alt="Panorama dos assuntos" width="900"/>
+<img src="imagens/geracao_pdf.png" alt="Geração de PDF" width="900"/>
 
 ### 🔍 Análise do Link (Individualmente)
-<img width="577" height="429" alt="análise do link" src="https://github.com/user-attachments/assets/369282d4-4d9d-4ec1-b78a-dcdb2305b962" />
-
+<img src="imagens/analise_link.png" alt="Análise do Link" width="900"/>
 
 
