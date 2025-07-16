@@ -3,7 +3,7 @@
 - Instale as dependências "pip install requests beautifulsoup4 reportlab"
 - Altere ou insira a chave API na linha 13 do arquivo analisador.py
 - Execute: "python analisador.py"
-- Para gerar o .exe: "pyinstaller --onefile analisador.py"
+- Para gerar o .exe: "pyinstaller --onefile analisador.py" (será criado na pasta "dist" dento do projeto)
 
 # 📌 **DESCRIÇÃO**
 
