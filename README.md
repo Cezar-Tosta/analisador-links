@@ -33,4 +33,8 @@ A interface é intuitiva, com seções para:
 ### 🔍 Análise do Link (Individualmente)
 <img src="imagens/analise_link.png" alt="Análise do Link" width="900"/>
 
-
+# **INSTRUÇÕES DE USO**
+- 1. Instale as dependências "pip install requests beautifulsoup4 reportlab"
+- 2. Altere ou insira a chave API na linha 13 do arquivo analisador.py
+- 3. Execute: "python analisador.py"
+- 4. Para gerar o .exe: "pyinstaller --onefile analisador.py"
