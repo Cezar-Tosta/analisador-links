@@ -1,3 +1,10 @@
+# 🚨**INSTRUÇÕES DE USO**
+
+- Instale as dependências "pip install requests beautifulsoup4 reportlab"
+- Altere ou insira a chave API na linha 13 do arquivo analisador.py
+- Execute: "python analisador.py"
+- Para gerar o .exe: "pyinstaller --onefile analisador.py"
+
 # 📌 **DESCRIÇÃO**
 
 O Analisador de Links é uma aplicação voltada para a organização e análise inteligente de URLs. A partir da inserção de links, o sistema realiza a extração automática de metadados e uma análise baseada em inteligência artificial (via API). Os links podem ser categorizados, armazenados e, posteriormente, utilizados para gerar panoramas analíticos com base nas categorias definidas.
@@ -32,9 +39,3 @@ A interface é intuitiva, com seções para:
 
 ### 🔍 Análise do Link (Individualmente)
 <img src="imagens/analise_link.png" alt="Análise do Link" width="900"/>
-
-# **INSTRUÇÕES DE USO**
-- 1. Instale as dependências "pip install requests beautifulsoup4 reportlab"
-- 2. Altere ou insira a chave API na linha 13 do arquivo analisador.py
-- 3. Execute: "python analisador.py"
-- 4. Para gerar o .exe: "pyinstaller --onefile analisador.py"
